@@ -3,8 +3,8 @@ title: Secure Industrial Semantic Sensor Cloud
 summary: The Secure Industrial Semantic Sensor Cloud (SISSeC) project aims to develop a solution for Industry 4.0 that enables data from industrial sensors to be securely ingested, semantically classified, processed, and made available in a secure cloud environment.
 tags:
 - Digital Twin
-- Artificial Intelligence
-- Internet of Things
+- AI
+- IoT
 - Big Data
 date: "2016-04-27T00:00:00Z"
 

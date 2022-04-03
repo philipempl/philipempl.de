@@ -29,10 +29,10 @@ content:
     tag: '*'
   - name: Digital Twin
     tag: Digital Twin
-  - name: Artificial Intelligence
-    tag: Artificial Intelligence
-  - name: Internet of Things
-    tag: Internet of Things
+  - name: AI
+    tag: AI
+  - name: IoT
+    tag: IoT
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
