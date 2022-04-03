@@ -46,11 +46,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'Putz et al. (2021).pdf'
+url_code: 'https://github.com/sigma67/ethertwin'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ethertwin.ur.de'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'EtherTwin screenshot'
+  caption: 'Sequence diagram showing initial deployment and user interactions with the smart contracts and DHT'
   focal_point: ""
   preview_only: false
 
