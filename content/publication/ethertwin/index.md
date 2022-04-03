@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '/publication/ethertwin/Putz2021-EtherTwin.pdf'
 url_code: 'https://github.com/sigma67/ethertwin'
 url_dataset: ''
 url_poster: ''

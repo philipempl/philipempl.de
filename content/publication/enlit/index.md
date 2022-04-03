@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '/Wagner2020'
+url_pdf: '/publication/enlit/Wagner2020.pdf'
 url_code: 'https://github.com/geritwagner/enlit'
 url_dataset: ''
 url_poster: ''
