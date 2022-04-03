@@ -37,7 +37,7 @@ abstract: In Cloud Computing, the cloud serves as a central data hub for the Ind
 tags: [Security Analytics, Information Sharing, Internet of Things, Cybersecurity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

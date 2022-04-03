@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Philip Maurice Empl # Website name
+title: Philip M. Empl # Website name
 baseurl: 'https://www.philipemplde.de/' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Philip M. Empl' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

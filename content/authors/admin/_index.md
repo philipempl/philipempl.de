@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philip Maurice Empl
+title: Philip M. Empl
 
 # Is this the primary user of the site?
 superuser: true
