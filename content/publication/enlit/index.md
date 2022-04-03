@@ -39,7 +39,7 @@ abstract: Understanding a new literature corpus can be a grueling experience for
 tags: [Review Methodology, Design Science Research, Schemata Theory]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

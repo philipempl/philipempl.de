@@ -1,28 +1,29 @@
 ---
-title: Example Talk
+title: Secure Industrial Semantic Sensor Cloud
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: TRIOKON 2020
+event_url: https://www.transfer-und-innovation-ostbayern.de/trio-forum/veranstaltungskalender/veranstaltung/triokon-digital-2020-nachhaltige-entwicklung-vom-trend-zum-erfolgsfaktor/
 
-location: Wowchemy HQ
+location: Virtual Event
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Am Lurzenhof 1
+  city: Landshut
+  region: BY
+  postcode: '84036'
+  country: Germany
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Secure Industrial Semantic Sensor Cloud (SISSeC) is a collaborative project with companies and universities that have set the common goal of securely recording and processing data from industrial sensors and machines.
+abstract: "Secure Industrial Semantic Sensor Cloud (SISSeC) is a collaborative project with companies and universities that have set the common goal of securely recording and processing data from industrial sensors and machines. In this presentation, I will briefly describe SISSeC, introduce the individual project partners, and present the contribution of the Chair of Information Systems I (Prof. Pernul) at the University of Regensburg in more detail. I will provide essential insights into central research aspects, such as Smart Manufacturing, Industrial Internet of Things, and Digital Twins.
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-09-29T09:00:00Z"
+date_end: "2020-09-30T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-05-0T600:00:00Z"
 
 authors: []
 tags: []
@@ -31,14 +32,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Unsplash**](https://www.transfer-und-innovation-ostbayern.de/ueber-trio/aktuelles/triokon-2020-call-for-ideas-laeuft/)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/OTH_Regensburg
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -49,7 +50,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,17 +58,5 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- sissec
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
