@@ -50,9 +50,9 @@ url_pdf: ''
 url_code: 'https://git.ur.de/soar4iot'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://soar4iot.ur.de'
 url_slides: ''
-url_source: 'https://soar4iot.ur.de'
+url_source: ''
 url_video: ''
 
 # Featured image
