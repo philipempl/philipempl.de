@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 
 date: "2020-05-13T00:00:00Z"
-doi: "10.1016/j.ipm.2020.102413
+doi: "10.1016/XXXXXXXX.X.X"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-05-13T00:00:00Z"
@@ -77,13 +77,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

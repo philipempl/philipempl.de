@@ -1,12 +1,10 @@
 ---
-title: "EtherTwin: Blockchain-based Secure Digital Twin Information Management"
+title: "Digital Twin-Driven Security Analytics for the IIoT"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Benedikt Putz
-- Marietheres Dietz
 - Philip Empl
 - Günther Pernul
 
@@ -16,7 +14,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-01-01T00:00:00Z"
-doi: "10.1016/j.ipm.2020.102425"
+doi: "10.1016/XXXXXXXX.X.XXX"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -28,15 +26,15 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Information Processing & Management*
-publication_short: In *Inf. Process. Manag.*
+publication: In *Submitted to: SN Computer Science*
+publication_short: In *Submitted to: SN Comput. Sci.*
 
-abstract: Digital Twins are complex digital representations of assets that are used by a variety of organizations across the Industry 4.0 value chain. As the digitization of industrial processes advances, Digital Twins will become widespread. As a result, there is a need to develop new secure data sharing models for a complex ecosystem of interacting Digital Twins and lifecycle parties. Decentralized Applications are uniquely suited to address these sharing challenges while ensuring availability, integrity and confidentiality. They rely on distributed ledgers and decentralized databases for data storage and processing, avoiding single points of trust. To tackle the need for decentralized sharing of Digital Twin data, this work proposes an owner-centric decentralized sharing model. A formal access control model addresses integrity and confidentiality aspects based on Digital Twin components and lifecycle requirements. With our prototypical implementation EtherTwin we show how to overcome the numerous implementation challenges associated with fully decentralized data sharing, enabling management of Digital Twin components and their associated information. For validation, the prototype is evaluated based on an industry use case and semi-structured expert interviews.
+abstract: Digital Twins map physical artifacts to virtual representations with a pre-defined fidelity and sharpen the bidirectional communication of the physical and virtual world in the Industrial Internet of Things (IIoT). Digital Twins also manage semantics, i.e., ontologies and relations between functional components and data. The Digital Twin is an ideal foundation to perform security analytics in the IIoT. Security Analytics is Big Data analytics from a cybersecurity perspective and aims at protecting devices by analyzing and correlating data from various data sources. These analytical results can be shared among lifecycles participants through Digital Twins to communicate the overall security state of a physical artifact. This paper presents an architecture that integrates security analytics into a Digital Twin, enables the contextualization of data, and thus, converts data to cybersecurity knowledge. The architecture is based on a formal model that results from various pre-defined key requirements. We further evaluated the architecture by a proof-ofconcept implementation called TwinSIGHT, which is publicly available.
 
 # Summary. An optional shortened abstract.
 #summary:
 
-tags: [Digital Twin, Distributed Ledger, Cybersecurity]
+tags: [Digital Twin, Internet of Things, Security Analytics, Information Sharing, Cybersecurity]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/philipempl/twinsight'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -58,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'EtherTwin screenshot'
+  caption: 'Data to incident conversion and relation to analytical operations (capabilities)'
   focal_point: ""
   preview_only: false
 
