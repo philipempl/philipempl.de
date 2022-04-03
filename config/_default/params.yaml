@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme_day: mrrobot
-theme_night: mrrobot
-font: mrrobot
-font_size: S
+theme: laerchennadelgruen
+day_night: false
+font: ''
+font_size: s
 
 # SEO
 

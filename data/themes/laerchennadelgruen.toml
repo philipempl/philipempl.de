@@ -3,11 +3,11 @@ name = "Lärchennadel Grün"
 # Is theme light or dark?
 light = true
 
-primary = "#da3c43"
+primary = "#3CB371"
 
 menu_primary = "#fff"
 menu_text = "#34495e"
-menu_text_active = "#da3c43"
+menu_text_active = "#3CB371"
 menu_title = "#2b2b2b"
 
 # Home sections
