@@ -27,8 +27,8 @@ publishDate: "2022-04-03T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Submitted to: Proceedings of the 17th. International Conference on Availability, Reliability and Security*
-publication_short: In *Submitted to: ARES'2022*
+publication: In *Submitted to Proceedings of the 17th. International Conference on Availability, Reliability and Security*
+publication_short: In *Submitted to ARES'2022*
 
 abstract: As more and more security tools provide organizations with cybersecurity capabilities, security analysts are overwhelmed by security events. Resolving these events is challenging due to extensive manual processes, limited financial resources, and human errors. Security Orchestration, Automation, and Response (SOAR) is an established approach to manage security tools and assets. However, SOAR platforms typically integrate traditional IT systems only. Additional considerations are required to deal with the Internet of Things (IoT), its multiple devices and complex networks. Therefore, we adapt SOAR to IoT. We first aggregate existing research and information on SOAR and SOAR platforms. We envision the SOAR4IoT framework, making IoT assets manageable for SOAR via middleware. We implement a prototypical digital twin-based SOAR application integrating IoT assets and security tools to validate our framework. The experimental setup includes two playbooks coping with Mirai and Sybil attacks. Results show feasibility as our SOAR application enables securing IoT assets with digital twins.
 
