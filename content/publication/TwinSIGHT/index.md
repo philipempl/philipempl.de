@@ -13,11 +13,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2021-01-01T00:00:00Z"
+date: "2022-10-01T00:00:00Z"
 doi: "10.1016/XXXXXXXX.X.XXX"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publication_types: ["2"]
 publication: In *Submitted to: SN Computer Science*
 publication_short: In *Submitted to: SN Comput. Sci.*
 
-abstract: Digital Twins map physical artifacts to virtual representations with a pre-defined fidelity and sharpen the bidirectional communication of the physical and virtual world in the Industrial Internet of Things (IIoT). Digital Twins also manage semantics, i.e., ontologies and relations between functional components and data. The Digital Twin is an ideal foundation to perform security analytics in the IIoT. Security Analytics is Big Data analytics from a cybersecurity perspective and aims at protecting devices by analyzing and correlating data from various data sources. These analytical results can be shared among lifecycles participants through Digital Twins to communicate the overall security state of a physical artifact. This paper presents an architecture that integrates security analytics into a Digital Twin, enables the contextualization of data, and thus, converts data to cybersecurity knowledge. The architecture is based on a formal model that results from various pre-defined key requirements. We further evaluated the architecture by a proof-ofconcept implementation called TwinSIGHT, which is publicly available.
+abstract: Digital Twins map physical artifacts to virtual representations with a pre-defined fidelity and sharpen the bidirectional communication of the physical and virtual world in the Industrial Internet of Things (IIoT). Digital Twins also manage semantics, i.e., ontologies and relations between functional components and data. The Digital Twin is an ideal foundation to perform security analytics in the IIoT. Security Analytics is Big Data analytics from a cybersecurity perspective and aims at protecting devices by analyzing and correlating data from various data sources. These analytical results can be shared among lifecycles participants through Digital Twins to communicate the overall security state of a physical artifact. This paper presents an architecture that integrates security analytics into a Digital Twin, enables the contextualization of data, and thus, converts data to cybersecurity knowledge. The architecture is based on a formal model that results from various pre-defined key requirements. We further evaluated the architecture by a proof-ofconcept implementation called TwinSIGHT, which is publicly available.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -75,13 +75,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
