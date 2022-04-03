@@ -24,13 +24,13 @@ publishDate: "2020-05-13T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 28th. European Conference on Information Systems*
 publication_short: In *ECIS'2020*
 
-abstract: Understanding a new literature corpus can be a grueling experience for junior scholars. Nevertheless, corresponding guidelines have not been updated for decades. We contend that the traditional strategy of skimming all papers and reading selected papers afterwards needs to be revised and design a new strategy that guides the overall exploratory process by prioritizing influential papers for initial reading, followed by skimming the remaining papers. Consistent with schemata theory, starting with in-depth reading allows readers to acquire more substantial prior content schemata, which are representative for the literature corpus and useful in the following skimming process. To this end, we develop a prototype that identifies the influential papers from a set of PDFs, which is illustrated in a case study in the IT business value domain. With the new strategy, we envision a more efficient process of exploring unknown literature corpora.
+abstract: Understanding a new literature corpus can be a grueling experience for junior scholars. Nevertheless, corresponding guidelines have not been updated for decades. We contend that the traditional strategy of skimming all papers and reading selected papers afterwards needs to be revised and design a new strategy that guides the overall exploratory process by prioritizing influential papers for initial reading, followed by skimming the remaining papers. Consistent with schemata theory, starting with in-depth reading allows readers to acquire more substantial prior content schemata, which are representative for the literature corpus and useful in the following skimming process. To this end, we develop a prototype that identifies the influential papers from a set of PDFs, which is illustrated in a case study in the IT business value domain. With the new strategy, we envision a more efficient process of exploring unknown literature corpora.
 
 
 # Summary. An optional shortened abstract.

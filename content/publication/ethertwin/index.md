@@ -39,14 +39,14 @@ abstract: Digital Twins are complex digital representations of assets that are u
 tags: [Digital Twin, Distributed Ledger, Cybersecurity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'Putz et al. (2021).pdf'
+url_pdf: ''
 url_code: 'https://github.com/sigma67/ethertwin'
 url_dataset: ''
 url_poster: ''
