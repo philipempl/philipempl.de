@@ -1,7 +1,7 @@
 name = "Lärchennadel Grün"
 
 # Is theme light or dark?
-light = true
+light = false
 
 primary = "#3CB371"
 
