@@ -10,16 +10,17 @@ role: Cybersecurity Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Information Systems
+- name: Department of Information Systems (University of Regensburg)
   url: https://www.uni-regensburg.de/wirtschaftswissenschaften/wi-pernul/startseite/index.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include IoT security and digital twins.
 
 # Interests to show in About widget
 interests:
-- Digital Twin
-- (Industrial) Internet of Things
+- Digital Twins
+- Internet of Things Security
+- Security Orchestration, Automation and Response
 - Security Analytics
 
 # Education to show in About widget
@@ -70,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Philip Empl received the master’s degree in management information systems from the University of Regensburg in 2020. He is currently pursuing the Ph.D. degree with the Chair of Information Systems, University of Regensburg, Germany. Since 2020, he has also been a Research Assistant with the Chair of Information Systems, University of Regensburg, Germany. There he is involved in a research project funded by the Federal Ministry for Economic Affairs and Energy (BMWi).
+Philip Empl received the master’s degree in management information systems from the University of Regensburg in 2020. He is currently pursuing the Ph.D. degree with the Chair of Information Systems, University of Regensburg, Germany. Since 2020, he has also been a Research Assistant with the Chair of Information Systems, University of Regensburg, Germany. There he is involved in the research project SISSeC funded by the Federal Ministry for Economic Affairs and Energy (BMWi).
 
 His research interests include the field of Internet of Things Security. His primary focus is the Digital Twin as an instrument to enhance cybersecurity in Industrial IoT environments. In concrete applications, digital twins can be used, for example, to train employees, orchestrate security mechanisms, or perform security analyses.
