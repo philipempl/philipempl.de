@@ -38,25 +38,27 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7616-5931
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Philip-Empl
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.de/citations?user=Lu-BjV4AAAAJ&hl=de&oi=ao
-- icon: orcid
+- icon: dblp
   icon_pack: ai
-  link: https://orcid.org/0000-0002-7616-5931
+  link: https://dblp.org/pid/266/9967.html
 - icon: github
   icon_pack: fab
   link: https://github.com/philipempl
 - icon: linkedin
   icon_pack: fab
   link: https://de.linkedin.com/in/philip-empl-4424a41b6
-
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
