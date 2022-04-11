@@ -10,7 +10,7 @@ main:
     url: '#about'
     weight: 30
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 30
   - name: Experience
     url: '#experience'

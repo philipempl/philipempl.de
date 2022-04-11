@@ -45,12 +45,14 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
+- name: Prototype
+   url: https://soar4iot.ur.de
 
 url_pdf: '/publication/soar4iot/Empl2022-SOAR4IoT.pdf'
 url_code: 'https://git.ur.de/soar4iot'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://soar4iot.ur.de'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''

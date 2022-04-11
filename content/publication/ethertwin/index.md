@@ -43,17 +43,18 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Prototype
+   url: https://ethertwin.ur.de
 
 url_pdf: '/publication/ethertwin/Putz2021-EtherTwin.pdf'
 url_code: 'https://github.com/sigma67/ethertwin'
 url_dataset: ''
 url_poster: ''
-url_project: 'https://ethertwin.ur.de'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
