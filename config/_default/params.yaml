@@ -30,8 +30,8 @@ address:
   country: Germany
   country_code: DE
 coordinates:
-  latitude: '49.013432'
-  longitude: '12.101624'
+  latitude: '48.9996222'
+  longitude: '12.0932951'
 directions:
 #office_hours:
 #  - ''
@@ -132,7 +132,7 @@ search:
 map:
   provider: 'google'
   api_key: 'AIzaSyBPppYX6alyWK4ECJAHefyerXGyta-4oaU'
-  zoom: 15
+  zoom: 25
 marketing:
   google_analytics: ''
   google_tag_manager: ''
