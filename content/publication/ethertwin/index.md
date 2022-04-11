@@ -45,6 +45,8 @@ featured: false
 links:
  - name: Prototype
    url: https://ethertwin.ur.de
+ - name: Cited by 57
+   url: https://scholar.google.de/citations?view_op=view_citation&hl=de&user=Lu-BjV4AAAAJ&citation_for_view=Lu-BjV4AAAAJ:eQOLeE2rZwMC
 
 url_pdf: '/publication/ethertwin/Putz2021-EtherTwin.pdf'
 url_code: 'https://github.com/sigma67/ethertwin'

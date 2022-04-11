@@ -23,6 +23,8 @@ interests:
 - Security Orchestration, Automation and Response
 - Security Analytics
 
+citation:
+ - Cited by 67
 # Education to show in About widget
 education:
   courses:

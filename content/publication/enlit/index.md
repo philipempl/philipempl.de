@@ -42,9 +42,9 @@ tags: [Review Methodology, Design Science Research, Schemata Theory]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Cited by 2
+   url: https://scholar.google.de/citations?view_op=view_citation&hl=de&user=Lu-BjV4AAAAJ&citation_for_view=Lu-BjV4AAAAJ:YsMSGLbcyi4C
 
 url_pdf: '/publication/enlit/Wagner2020-ENLIT.pdf'
 url_code: 'https://github.com/geritwagner/enlit'

@@ -40,9 +40,9 @@ tags: [Security Analytics, Information Sharing, Internet of Things, Cybersecurit
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: Cited by 5
+   url: https://scholar.google.de/citations?view_op=view_citation&hl=de&user=Lu-BjV4AAAAJ&citation_for_view=Lu-BjV4AAAAJ:WF5omc3nYNoC
 
 url_pdf: '/publication/saas/Empl2021-SaaS.pdf'
 url_code: ''

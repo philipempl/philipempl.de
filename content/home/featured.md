@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: Selected Publications
-subtitle: ""
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
