@@ -69,7 +69,7 @@ experience:
     company_url: 'https://www.draexlmaier.com/'
     company_logo: draexlmaier
     location: Vilsbiburg
-    date_start: '2015-13-01'
+    date_start: '2015-03-01'
     date_end: '2016-08-31'
     description: Developed within a MES sofware project.
 
