@@ -37,7 +37,7 @@ abstract: Digital Twins map physical artifacts to virtual representations with a
 tags: [Digital Twin, Internet of Things, Security Analytics, Information Sharing, Cybersecurity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
