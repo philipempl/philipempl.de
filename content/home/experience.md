@@ -39,7 +39,7 @@ experience:
 
   - title: Trainer
     company: Chair of Information Systems (Prof. Dr. Günther Pernul)
-    company_url: ''
+    company_url: 'https://www.uni-regensburg.de/wirtschaftswissenschaften/wi-pernul/startseite/index.html'
     company_logo: ur
     location: Regensburg
     date_start: '2018-10-01'
