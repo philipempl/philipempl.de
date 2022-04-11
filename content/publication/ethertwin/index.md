@@ -42,7 +42,7 @@ tags: [Digital Twin, Distributed Ledger, Information Sharing, Cybersecurity]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Prototype
    url: https://ethertwin.ur.de
 
