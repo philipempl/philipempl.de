@@ -132,7 +132,7 @@ search:
 map:
   provider: 'google'
   api_key: 'AIzaSyBPppYX6alyWK4ECJAHefyerXGyta-4oaU'
-  zoom: 20
+  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''
