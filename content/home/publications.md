@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title:  Publications
-subtitle: See all [publications](./publication/). 
+subtitle: See all [publications](./publication/)
 
 content:
   # Page type to display. E.g. post, talk, publication...
