@@ -55,7 +55,7 @@ experience:
     date_end: '2018-03-31'
     description: Digitalized the department for value oriented production systems.
 
- - title: Trainer
+  - title: Trainer
     company: Chair of Information Systems (Prof. Dr. Guido Schryen)
     company_url: 'https://en.wiwi.uni-paderborn.de/de/dep3/schryen'
     company_logo: ur
@@ -64,7 +64,7 @@ experience:
     date_end: '2017-09-30'
     description: Taught in theoretical computer science and assisted in research.
 
- - title: Working student
+  - title: Working student
     company: DRÄXLMAIER Group
     company_url: 'https://www.draexlmaier.com/'
     company_logo: draexlmaier
