@@ -36,7 +36,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
-{{% callout note %}}
-Quickly discover publications by .
-{{% /callout %}}
