@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
 
-        * Lecture: IT security 1
-        * Guest lecture: security of data-intensive applications
-        * SISSec Project
+        * Lecture "IT Security 1"
+        * Guest lecture "Security of Data-Intensive Applications"
+        * Reearch project SISSeC
         * Supervision of seminar papers and theses
 
   - title: Trainer
@@ -71,8 +71,8 @@ experience:
     location: Vilsbiburg
     date_start: '2015-03-01'
     date_end: '2016-08-31'
-    description: Developed within a MES sofware project.
+    description: Developed software within a MES project.
 
 design:
-  columns: '3'
+  columns: '2'
 ---
