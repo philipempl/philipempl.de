@@ -10,7 +10,7 @@ role: Cybersecurity Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Department of Information Systems (University of Regensburg)
+- name: Department of Information Systems (UR)
   url: https://www.uni-regensburg.de/wirtschaftswissenschaften/wi-pernul/startseite/index.html
 
 # Short bio (displayed in user profile at end of posts)
