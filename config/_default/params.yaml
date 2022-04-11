@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-#email: mail@philipempl.de
-#phone:
+email: philip.empl[at]ur.de
+phone: +49 0941 943 2860
 address:
   street: Universitätsstraße 31
   city: Regensburg
@@ -36,7 +36,7 @@ directions:
 #office_hours:
 #  - ''
 #  - ''
-#appointment_url: ''
+appointment_url: 'https://book.morgen.so/philipempl'
 #contact_links:
 #  - icon: twitter
 #    icon_pack: fab
