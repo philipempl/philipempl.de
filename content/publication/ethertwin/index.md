@@ -43,7 +43,7 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Prototype
+ - name: Prototype
    url: https://ethertwin.ur.de
 
 url_pdf: '/publication/ethertwin/Putz2021-EtherTwin.pdf'

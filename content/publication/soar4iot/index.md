@@ -42,10 +42,8 @@ tags: [Digital Twin, Internet of Things, Security Orchestration, SOAR, Cybersecu
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-- name: Prototype
+links:
+ - name: Prototype
    url: https://soar4iot.ur.de
 
 url_pdf: '/publication/soar4iot/Empl2022-SOAR4IoT.pdf'
