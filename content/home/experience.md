@@ -40,7 +40,7 @@ experience:
   - title: Trainer
     company: Chair of Information Systems (Prof. Dr. Günther Pernul)
     company_url: ''
-    company_logo: org-x
+    company_logo: ur
     location: Regensburg
     date_start: '2018-10-01'
     date_end: '2020-08-31'
