@@ -1,0 +1,147 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+theme: laerchennadelgruen
+day_night: false
+font: ''
+font_size: m
+
+# SEO
+
+site_type: Person
+local_business_type: ''
+org_name: 'Philip Empl'
+description: 'Philip Empl is a cybersecurity researcher focusing on digital twins and their application in cybersecurity domain.'
+twitter: ''
+
+# Contact (edit or remove options as required)
+
+email: philip.empl[at]ur.de
+phone: +49 941 943 2860
+address:
+  street: Universitätsstraße 31
+  city: Regensburg
+  region: Bavaria
+  postcode: '93051'
+  country: Germany
+  country_code: DE
+coordinates:
+  latitude: '48.9996222'
+  longitude: '12.0932951'
+directions:
+#office_hours:
+#  - ''
+#  - ''
+appointment_url: 'https://book.morgen.so/philipempl'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: DM Me
+#    link: 'https://twitter.com/Twitter'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: false
+  highlight_active_link: true
+
+# Localization
+
+date_format: 'Jan 2, 2006'
+time_format: '3:04 PM'
+address_format: en-us
+
+# Site features
+
+highlight: true
+highlight_languages:
+  - r
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
+  editable:
+    page: false
+    post: false
+    book: false
+show_related:
+  home: false
+  book: false
+  page: false
+  post: false
+  project: false
+  publication: true
+  event: false
+reading_time: false
+section_pager: false
+docs_section_pager: false
+sharing: false
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: false
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
+plugins_js: []
+avatar:
+  gravatar: false
+  shape: square
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
+comments:
+  provider: ''
+  commentable:
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: true
+  disqus:
+    shortname: ''
+    show_count: true
+  commento:
+    url: ''
+search:
+  provider: wowchemy
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  provider: 'google'
+  api_key: 'AIzaSyBPppYX6alyWK4ECJAHefyerXGyta-4oaU'
+  zoom: 15
+marketing:
+  google_analytics: ''
+  google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: true
